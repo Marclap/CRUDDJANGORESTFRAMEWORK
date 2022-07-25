@@ -1,0 +1,17 @@
+
+# Gestión de tareas
+
+Ejercicio el cual requiere desarrollar un servicio web, el cual permita la gestión de tareas (simulando un trello básico).
+
+## Contexto:
+
+Dicho servicio debe permitir registrar tareas nuevas con la siguiente información:
+1. Nombre de la tarea
+2. Descripción de la tarea
+3. Estado de la tarea (BACKLOG, TO DO, DOING, TEST, DONE)
+4. Prioridad (ALTA, MEDIA, BAJA)
+5. fecha de entrega.
+6. Comentario.
+De igual manera debe permitir gestionar cada tarea, es decir, cambiar su estado, comentario, fecha y prioridad.
+Los interesados pueden del proyecto, deben poder consultar las tareas del equipo de trabajo, para esto el servicio debe permitir filtrar la información por estado, fecha de entrega y nombre de la tarea.
+
